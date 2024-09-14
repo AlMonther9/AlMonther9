@@ -1,3 +1,6 @@
+
+![my pfp](https://github.com/user-attachments/assets/c78393a8-dc1e-4c86-8fb3-ed5751bbc21b)
+
 # Hello, I'm AlMonther Abdulhafeez 👋
 
 
