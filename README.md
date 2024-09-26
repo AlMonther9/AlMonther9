@@ -1,14 +1,14 @@
 
 ![my pfp](https://github.com/user-attachments/assets/c78393a8-dc1e-4c86-8fb3-ed5751bbc21b)
 
-# Hello, I'm AlMonther Abdulhafeez 👋
+# Hello, I'm AlMonther👋
 
 
 > *"Art, creativity, and the quest for beauty fuel my passion for technology."*
 
-I'm a **Front-End Developer** focused on **ReactJS, TailwindCSS, and Next.js**. I find inspiration in the world of art and design, much like the magical universes crafted by Studio Ghibli. My journey blends my love for software engineering with the intricate beauty of electrical engineering, which I am currently pursuing as a dual degree at **Al Azhar University**.
+I'm a **Front-End Developer** focused on **ReactJS, TailwindCSS, and Next.js**. I find inspiration in the world of art and design, My journey blends my love for software engineering with the intricate beauty of electrical engineering, which I am currently pursuing as a dual degree at **Al Azhar University**.
 
-I thrive in creating seamless, artistic user experiences on the web while balancing my passion for **AI**, **Robotics**, and **Machine Learning**.
+I thrive in creating seamless, artistic user experiences on the web while balancing my passion for **AI**, **Robotics**, **Machine Learning** and **Automation**. 
 
 ---
 
@@ -17,7 +17,7 @@ I thrive in creating seamless, artistic user experiences on the web while balanc
 - **Languages**: JavaScript (JS), TypeScript (TS), C, C++, HTML, CSS
 - **Frameworks**: ReactJS, Next.js, TailwindCSS, Redux, Vite, Shadcn, Magic UI
 - **Tools & Platforms**: GitHub, Linux, Firebase, Vercel
-- **Others**: AI, Robotics, Machine Learning
+- **Others**: AI, Robotics, Machine Learning, Automation
 
 ---
 
@@ -49,3 +49,6 @@ Beyond technical proficiency, I believe that effective **communication**, **team
 > *"Inspired by Studio Ghibli, I strive to blend art and technology into something truly magical."*
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
+!Visitor Count
