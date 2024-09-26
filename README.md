@@ -1,4 +1,7 @@
 
+# Welcome to My GitHub Profile!
+
+
 ![my pfp](https://github.com/user-attachments/assets/c78393a8-dc1e-4c86-8fb3-ed5751bbc21b)
 
 # Hello, I'm AlMonther👋
@@ -49,6 +52,4 @@ Beyond technical proficiency, I believe that effective **communication**, **team
 > *"Inspired by Studio Ghibli, I strive to blend art and technology into something truly magical."*
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
-!Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=AlMonther9)
