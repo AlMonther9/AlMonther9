@@ -19,7 +19,7 @@ I thrive in creating seamless, artistic user experiences on the web while balanc
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almonther9" alt="almonther9" /></a> </p>
 
-<h3 align="left"> </> </h3>
+<h3 align="left"> < /> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/almonther-abdulhafeez-a3a48a267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/almonther-abdulhafeez-a3a48a267" height="30" width="40" /></a>
 <a href="https://medium.com/@almonther" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@almonther" height="30" width="40" /></a>
