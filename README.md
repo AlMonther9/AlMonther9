@@ -16,7 +16,7 @@ I am a **Front-End Developer** and a graduate of the **ALX Software Engineering*
 
 <h3 align="left"> < /> </h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/almonther-art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/almonther-abdulhafeez-a3a48a267" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/almonther-art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/almonther-abdulhafeez-a3a48a267" height="30" width="40" /></a>
 <a href="https://medium.com/@ealmonzer667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@almonther" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/almonther9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almonther9" height="30" width="40" /></a>
 </p>
