@@ -4,13 +4,9 @@
 
 ![my pfp](https://github.com/user-attachments/assets/c78393a8-dc1e-4c86-8fb3-ed5751bbc21b)
 
-> *"Art, creativity, and the quest for beauty fuel my passion for technology."*
-
 ---
 
-I am a **Front-End Developer** and a graduate of the ALX Software Engineering program, specializing in **ReactJS, TailwindCSS, and Next.js**. I draw inspiration from the world of art and design. My journey combines my passion for software engineering with the intricate beauty of **Electrical Engineering (Communications & Electronics)**, which I am currently pursuing as a dual degree at **Al Azhar University**.
-
-I excel at creating seamless, artistic web user experiences while integrating my passions for AI, robotics, machine learning, and automation.
+I am a **Front-End Developer** and a graduate of the **ALX Software Engineering** program, specializing in **ReactJS, TailwindCSS, and Next.js**. I draw inspiration from the world of art and design. My journey combines my passion for software engineering with the intricate beauty of **Electrical Engineering (Communications & Electronics)**, which I am currently pursuing as a dual degree at **Al-Azhar University**.
 
 ---
 
