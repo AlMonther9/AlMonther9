@@ -1,8 +1,9 @@
 
-# Welcome to My GitHub Profile!🍃
+<div align="center"> <h2> Welcome to My GitHub Profile!🍃 </h2> </div>
 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVwbGV5OGJpb3BoaG02bjhqd3BidGJ0Nmx5dHVmdjF5NGhwcTl5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" alt="mood" style="width: 100%;" />
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVwbGV5OGJpb3BoaG02bjhqd3BidGJ0Nmx5dHVmdjF5NGhwcTl5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" alt="mood" style="width: 100%;" />
+</div>
 
 <!-- ![my pfp](https://github.com/user-attachments/assets/c78393a8-dc1e-4c86-8fb3-ed5751bbc21b) -->
 
@@ -115,7 +116,7 @@ I am a **Front-End Developer** and a graduate of the **ALX Software Engineering*
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almonther9&show_icons=true&locale=en" alt="almonther9" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almonther9&" alt="almonther9" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almonther9&" alt="almonther9" /></p> 
 
 
 ## 🔗 Connect with Me
