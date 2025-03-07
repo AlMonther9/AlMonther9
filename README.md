@@ -9,7 +9,7 @@
 
 ---
 
-I am a **Front-End Developer** and a graduate of the **ALX Software Engineering** program, specializing in **ReactJS (Next.js), TailwindCSS**. I draw inspiration from the world of art and design. My journey combines my passion for software engineering with the intricate beauty of **Electrical Engineering (Communications & Electronics)**, which I am currently pursuing as a dual degree at **Al-Azhar University**.
+A **Front-End Developer** and a graduate of the **ALX Software Engineering** program, specializing in **ReactJS (Next.js), TailwindCSS**. I draw inspiration from the world of art and design. My journey combines my passion for software engineering with the intricate beauty of **Electrical Engineering (Communications & Electronics)**, which I am currently pursuing as a dual degree at **Al-Azhar University**.
 
 ---
 
