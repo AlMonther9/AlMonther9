@@ -116,7 +116,7 @@ A **Front-End Developer** and a graduate of the **ALX Software Engineering** pro
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almonther9&show_icons=true&locale=en" alt="almonther9" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almonther9&" alt="almonther9" /></p> 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almonther9" alt="almonther🔥" /></p> 
 
 
 ## 🔗 Connect with Me
