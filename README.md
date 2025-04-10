@@ -123,3 +123,16 @@ A **Front-End Developer** and a graduate of the **ALX Software Engineering** pro
 
 - 📧 Email: [ealmonzer667@gmail.com](mailto:ealmonzer667@gmail.com)
 - 💼 LinkedIn: [AlMonther Abdulhafeez](https://www.linkedin.com/in/almonther-art)
+
+---
+
+### 🚀 Featured Projects
+
+Check out my [**Portfolio Repository**](https://github.com/almonther9/Portfolio) — a curated list of my deployed projects with descriptions.  
+Each one is crafted with love for tech, art, and meaningful user experiences 🌿💻✨
+
+> Projects include:  
+> • [Naderah - Cosmetics & Skincare E-Commerce 💄](https://nadera.vercel.app/)  
+> • [Vacts - AI Solutions for the Middle East 🤖](https://vacts-pi.vercel.app/)  
+> • [Leaf & Bloom - Plant Discovery & Community 🌱](https://leaf-bloom.vercel.app/)  
+> • [SignRaise - Real-time Sign Language Translation ✋](https://sign-raisefront.vercel.app/)
