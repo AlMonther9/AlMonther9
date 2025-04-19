@@ -136,4 +136,4 @@ Each one is crafted with love for tech, art, and meaningful user experiences �
 > • [Vacts - AI Solutions for the Middle East 🤖](https://vacts-pi.vercel.app/)  
 > • [Leaf & Bloom - Plant Discovery & Community 🌱](https://leaf-bloom.vercel.app/)  
 > • [SignRaise - Real-time Sign Language Translation ✋](https://sign-raisefront.vercel.app/)  
-> • [Hirease – Hiring, Onboarding & Reviews Community driven Platform 📋 🧑‍💼](https://front-end-6tex.vercel.app/)
+> • [Hirease – Hiring, Onboarding & Reviews Community driven Platform 📋 🧑‍💼](https://front-end-steel-five-64.vercel.app/)
