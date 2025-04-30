@@ -123,7 +123,7 @@ A **Front-End Developer** and a graduate of the **ALX Software Engineering** pro
 
 - 📧 Email: [ealmonzer667@gmail.com](mailto:ealmonzer667@gmail.com)
 - 💼 LinkedIn: [AlMonther Abdulhafeez](https://www.linkedin.com/in/almonther-art)
-
+<!--
 ---
 
 ### 🚀 Featured Projects
@@ -137,3 +137,4 @@ Each one is crafted with love for tech, art, and meaningful user experiences �
 > • [Leaf & Bloom - Plant Discovery & Community 🌱](https://leaf-bloom.vercel.app/)  
 > • [SignRaise - Real-time Sign Language Translation ✋](https://sign-raisefront.vercel.app/)  
 > • [Hirease – Hiring, Onboarding & Reviews Community driven Platform 📋 🧑‍💼](https://front-end-steel-five-64.vercel.app/)
+-->
