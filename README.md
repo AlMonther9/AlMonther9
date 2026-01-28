@@ -1,10 +1,12 @@
 
 <div align="center"> <h2> Welcome to My GitHub Profile!🍃 </h2> </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVwbGV5OGJpb3BoaG02bjhqd3BidGJ0Nmx5dHVmdjF5NGhwcTl5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" alt="mood" style="width: 100%;" />
+</div> -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm05bnQ2dzh6Y3BoNjdwMHJ0MHp1dHFxdGR5cGNqcjE0Ynk3ZXJ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiDplerbPHYnjLUo5i/giphy.gif" alt="mood" style="width: 100%;" />
 </div>
-
 <!-- ![my pfp](https://github.com/user-attachments/assets/c78393a8-dc1e-4c86-8fb3-ed5751bbc21b) -->
 
 ---
